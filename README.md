@@ -36,7 +36,7 @@ Last.fm Dataset: Metadata and user interaction data from 28,743 songs enhanced t
 
 
 
-Results and Insights
+Results and Insights:
 Content-based models demonstrated independence from popularity metrics, effectively mitigating bias.
 Metadata-based models highlighted strong relationships between song metadata and user preferences.
 Clustering and cosine similarity metrics validated the system's ability to recommend meaningful and diverse song matches.
@@ -44,7 +44,7 @@ Clustering and cosine similarity metrics validated the system's ability to recom
 
 
 
-Achievements
+Achievements:
 
 Unbiased Recommendations: Lesser-known and emerging artists gained equitable exposure.
 High Accuracy: Models achieved up to 53% accuracy in tag-based embeddings, showing promise for scalable systems.
@@ -53,7 +53,7 @@ Inclusive Ecosystem: Diverse music content surfaced based on intrinsic features 
 
 
 
-Future Enhancements
+Future Enhancements:
 
 To improve and expand the system, the following areas will be explored:
 
@@ -63,5 +63,5 @@ Incorporating raw audio signals for richer feature extraction.
 
 
 
-Conclusion
+Conclusion:
 Melodify redefines music recommendations by integrating unsupervised learning techniques and mitigating biases inherent in traditional systems. It paves the way for a fair, scalable, and inclusive music recommendation ecosystem, offering personalized experiences while promoting diversity in the music industry.
