@@ -1,4 +1,4 @@
-# Bias-Free Music Recommendations Using Multi Model Embedding Approaches
+#  Melodify: Bias-Free Music Recommendation System
 
 Introduction
 
